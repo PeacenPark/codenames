@@ -1,5 +1,10 @@
 #game-view {
-    width: 700px;
+    width: 950px;
+    margin: 0 auto;
+}
+
+dvi#game-view {
+    width: 950px;
     margin: 0 auto;
 }
 
@@ -103,7 +108,7 @@
 .board .neutral.revealed { background: #545454; }
 
 .cell {
-    width: 130px;
+    width: 180px;
     height: 130px;
     box-sizing: border-box;
     margin: 5px;
